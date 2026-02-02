@@ -19,3 +19,10 @@ multiply(2, 3); // 6
 multiply(2); // NaN
 
 
+function fullName (first='', last='') { 
+    const name = first + '' + last;
+    console.log(name)
+}
+
+// fullName('kamal') // kamalundefined
+fullName('kamal') // kamal
