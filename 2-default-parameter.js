@@ -26,3 +26,13 @@ function fullName (first='', last='') {
 
 // fullName('kamal') // kamalundefined
 fullName('kamal') // kamal
+/*
+add, substract --> 0
+multiply --> 1
+string --> ''
+array --> []
+object --> {}
+default parameter --> if call function and don't pass the argument then default value usess
+without the default parameters
+default parameters
+*/ 
